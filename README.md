@@ -3,7 +3,7 @@ Reusable tree view component for react native both ios and android
 ## Installation
 
 ```sh
-npm install react-native-treeview
+npm install rn-treeview
 ```
 
 ## Usage

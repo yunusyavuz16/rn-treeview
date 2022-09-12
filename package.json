@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "react-native-treeview.podspec",
+    "rn-treeview.podspec",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
@@ -35,13 +35,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/yunusyavuz16/react-native-treeview",
+  "repository": "https://github.com/yunusyavuz16/rn-treeview",
   "author": "Yunus Yavuz <yunusyavuz016@gmail.com> (https://github.com/yunusyavuz16)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yunusyavuz16/react-native-treeview/issues"
+    "url": "https://github.com/yunusyavuz16/rn-treeview/issues"
   },
-  "homepage": "https://github.com/yunusyavuz16/react-native-treeview#readme",
+  "homepage": "https://github.com/yunusyavuz16/rn-treeview#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

@@ -1,6 +1,6 @@
 {
   "name": "rn-treeview-example",
-  "description": "Example app for react-native-treeview",
+  "description": "Example app for rn-treeview",
   "version": "0.0.1",
   "private": true,
   "scripts": {
